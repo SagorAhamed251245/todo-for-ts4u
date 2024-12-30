@@ -1,0 +1,20 @@
+.alltodo-container {
+  width: 80%;
+  margin: 0 auto;
+
+  .tabs {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+  }
+}
+
+button {
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+
+  :hover {
+    background-color: rgb(253, 89, 13);
+  }
+}

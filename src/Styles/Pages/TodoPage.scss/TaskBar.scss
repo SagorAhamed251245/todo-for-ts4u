@@ -1,0 +1,25 @@
+.task-container {
+  height: auto;
+  // margin-left: 10%;
+  margin-top: 10px;
+  .data-container {
+    width: 80%;
+    height: 60vh;
+    // margin-left: 10%;
+    margin: 0 auto;
+    background-color: rgb(228, 228, 220);
+  }
+}
+.task-box {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.task-btn {
+  margin-top: 20px;
+  width: 8%;
+  height: 4vh;
+  background-color: blue;
+  color: white;
+}
